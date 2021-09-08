@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import json
 
 
@@ -54,16 +48,5 @@ if __name__ == '__main__':
 
     for a in hash_generator('countries_wiki.txt'):
         print(a)
-
-
-# In[1]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
